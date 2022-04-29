@@ -1,0 +1,37 @@
+<interns>
+    <intern id="N01">
+        <firstname>Nyong</firstname>
+        <lastname>Godwill</lastname>
+        <email>godwill@gmail.com</email>
+        <Age>21</Age>
+        <Role>Developer</Role>
+    </intern>
+    <intern id="N02">
+        <firstname>Nfon</firstname>
+        <lastname>Andrew</lastname>
+        <email>andynfon@gmail.com</email>
+        <Age>22</Age>
+        <Role>Developer</Role>
+    </intern>
+    <intern id="N03">
+        <firstname>Vince</firstname>
+        <lastname>elroy</lastname>
+        <email>elroy@gmail.com</email>
+        <Age>21</Age>
+        <Role>Developer</Role>
+    </intern>
+    <intern id="N04">
+        <firstname>Ngumieh</firstname>
+        <lastname>Fien</lastname>
+        <email>ngumieh@gmail.com</email>
+        <Age>21</Age>
+        <Role>Developer</Role>
+    </intern>
+    <intern id="N05">
+        <firstname>Tanju</firstname>
+        <lastname>Brunostar</lastname>
+        <email>brunostar@gmail.com</email>
+        <Age>24</Age>
+        <Role>Developer</Role>
+    </intern>
+</interns>

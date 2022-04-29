@@ -1,0 +1,46 @@
+{
+	"interns": {
+		"intern": [
+			{
+				"firstname": "Nyong",
+				"lastname": "Godwill",
+				"email": "godwill@gmail.com",
+				"Age": "21",
+				"Role": "Developer",
+				"_id": "N01"
+			},
+			{
+				"firstname": "Nfon",
+				"lastname": "Andrew",
+				"email": "andynfon@gmail.com",
+				"Age": "22",
+				"Role": "Developer",
+				"_id": "N02"
+			},
+			{
+				"firstname": "Vince",
+				"lastname": "elroy",
+				"email": "elroy@gmail.com",
+				"Age": "21",
+				"Role": "Developer",
+				"_id": "N03"
+			},
+			{
+				"firstname": "Ngumieh",
+				"lastname": "Fien",
+				"email": "ngumieh@gmail.com",
+				"Age": "21",
+				"Role": "Developer",
+				"_id": "N04"
+			},
+			{
+				"firstname": "Tanju",
+				"lastname": "Brunostar",
+				"email": "brunostar@gmail.com",
+				"Age": "24",
+				"Role": "Developer",
+				"_id": "N05"
+			}
+		]
+	}
+}
